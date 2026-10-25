@@ -1,7 +1,7 @@
 {
-  "versionName": "0.11.9",
-  "title": "Fuller favourites and self-updates",
-  "notes": "Adds Triton Poker, fills every curated sports/movie/music section, improves country and language classification, and lets viewers add any channel to any favourite section from the channel menu.",
+  "versionName": "0.12.0",
+  "title": "Global guide, advanced search and on-demand services",
+  "notes": "Expands the deduplicated live catalogue to 9,750 channels, reorganises Rugby, TV, news, comedy and kids, searches current/upcoming programmes, adds reminder/record/series actions, restores Movies, Shows and the configurable add-on library, and includes OpenTV 0.11.8 upstream fixes.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 38449660
+  "apkSizeBytes": 40521507
 }
