@@ -1,7 +1,7 @@
 {
-  "versionName": "0.12.0",
+  "versionName": "0.12.1",
   "title": "Global guide, advanced search and on-demand services",
-  "notes": "Expands the deduplicated live catalogue to 9,750 channels, reorganises Rugby, TV, news, comedy and kids, searches current/upcoming programmes, adds reminder/record/series actions, restores Movies, Shows and the configurable add-on library, and includes OpenTV 0.11.8 upstream fixes.",
+  "notes": "Expands the deduplicated live catalogue to 9,750 channels, reorganises Rugby, TV, news, comedy and kids, searches current/upcoming programmes, adds reminder/record/series actions, restores Movies, Shows and the configurable add-on library, includes OpenTV 0.11.8 upstream fixes, and defers the one-time global import until the interface is responsive.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 40521507
+  "apkSizeBytes": 40521504
 }
