@@ -1,7 +1,7 @@
 {
-  "versionName": "0.12.2",
-  "title": "Faster tuning, stable catalogues and repaired YouTube live",
-  "notes": "Makes dead or region-blocked channels fail quickly instead of retrying for minutes, removes the duplicate first-launch catalogue import, reduces automatic retries and catalogue memory pressure, improves YouTube live resolution and routes fallbacks to the installed SmartTube package, and validates eight selected metadata, direct-web, trailer and subtitle services without disabling device-wide ad blocking.",
+  "versionName": "0.12.3",
+  "title": "Visible add-ons and working internal YouTube Live",
+  "notes": "Adds the installed add-on library directly to the main navigation rail, loads catalogue rows progressively without freezing the TV, cancels expensive guide work immediately when leaving Live TV, and explicitly identifies YouTube's extensionless live manifests as HLS so they play internally instead of failing with an unsupported-container error.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 45459416
+  "apkSizeBytes": 41014165
 }
