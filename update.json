@@ -1,7 +1,7 @@
 {
-  "versionName": "0.12.5",
-  "title": "Faster playback and fully populated favourites",
-  "notes": "Removes duplicate YouTube resolution, recovers live streams that fall behind without restarting them, reduces startup catalogue contention, expands sports and movie classification across the full global feed, and adds official basketball live-event sources plus Animation, War and Mystery movie shelves.",
+  "versionName": "0.12.6",
+  "title": "Responsive release build and protected-stream fixes",
+  "notes": "Switches to an optimized non-debug release for substantially faster startup and remote response, and supplies each channel's required User-Agent and Referer headers so streams that previously returned 403 can play. Existing favourites, settings and logins are preserved.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 48236479
+  "apkSizeBytes": 15190167
 }
