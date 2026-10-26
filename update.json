@@ -1,7 +1,7 @@
 {
-  "versionName": "0.12.3",
-  "title": "Visible add-ons and working internal YouTube Live",
-  "notes": "Adds the installed add-on library directly to the main navigation rail, loads catalogue rows progressively without freezing the TV, cancels expensive guide work immediately when leaving Live TV, and explicitly identifies YouTube's extensionless live manifests as HLS so they play internally instead of failing with an unsupported-container error.",
+  "versionName": "0.12.4",
+  "title": "Reliable YouTube playback and crash-loop protection",
+  "notes": "Resolves YouTube live pages centrally for every playback route including Search and favourites, selects HLS for Google live manifests, prevents deterministic format failures from entering an infinite retry loop, and delays the largest guide read until the TV interface has focus.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 41014165
+  "apkSizeBytes": 40628931
 }
