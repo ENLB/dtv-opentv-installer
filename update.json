@@ -1,7 +1,7 @@
 {
-  "versionName": "0.12.4",
-  "title": "Reliable YouTube playback and crash-loop protection",
-  "notes": "Resolves YouTube live pages centrally for every playback route including Search and favourites, selects HLS for Google live manifests, prevents deterministic format failures from entering an infinite retry loop, and delays the largest guide read until the TV interface has focus.",
+  "versionName": "0.12.5",
+  "title": "Faster playback and fully populated favourites",
+  "notes": "Removes duplicate YouTube resolution, recovers live streams that fall behind without restarting them, reduces startup catalogue contention, expands sports and movie classification across the full global feed, and adds official basketball live-event sources plus Animation, War and Mystery movie shelves.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 40628931
+  "apkSizeBytes": 48236479
 }
