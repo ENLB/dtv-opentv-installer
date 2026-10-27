@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.1-stremio-lab",
-  "title": "Integrated add-on library, playback and Keep Watching",
-  "notes": "Shows and movies from enabled add-ons now appear directly in provider-neutral Popular, New and genre shelves. Direct HTTP and YouTube-ID results play inside OpenTV with headers and subtitles preserved, and viewing progress is saved in Keep Watching for one-press resume. Existing channels, favourites, settings, add-ons and logins are preserved.",
+  "versionName": "0.13.2-stremio-lab",
+  "title": "Phone add-on management",
+  "notes": "Add-ons can now be tested, added, enabled, disabled and removed from OpenTV's local phone/laptop manager. Changes refresh the TV library without an app restart, add-on terminology is provider-neutral, and personalised manifest URLs remain stored only on the TV. Existing channels, favourites, settings, add-ons and logins are preserved.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 15690319
+  "apkSizeBytes": 15690308
 }
