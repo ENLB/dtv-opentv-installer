@@ -1,7 +1,7 @@
 {
-  "versionName": "0.12.6",
-  "title": "Responsive release build and protected-stream fixes",
-  "notes": "Switches to an optimized non-debug release for substantially faster startup and remote response, and supplies each channel's required User-Agent and Referer headers so streams that previously returned 403 can play. Existing favourites, settings and logins are preserved.",
+  "versionName": "0.13.0-stremio-lab",
+  "title": "Universal library organisation and expanded add-ons",
+  "notes": "Reorganises the complete catalogue with Lebanon & Arabic first and Australia second, adds persistent cross-classified collections and a rebuilt guide, and expands compatible Stremio manifest, catalogue, metadata, stream, subtitle, search, configuration and update support. Existing personal favourites, settings and logins are preserved.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 15190167
+  "apkSizeBytes": 15673938
 }
