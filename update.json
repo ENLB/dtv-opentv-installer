@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.0-stremio-lab",
-  "title": "Universal library organisation and expanded add-ons",
-  "notes": "Reorganises the complete catalogue with Lebanon & Arabic first and Australia second, adds persistent cross-classified collections and a rebuilt guide, and expands compatible Stremio manifest, catalogue, metadata, stream, subtitle, search, configuration and update support. Existing personal favourites, settings and logins are preserved.",
+  "versionName": "0.13.1-stremio-lab",
+  "title": "Integrated add-on library, playback and Keep Watching",
+  "notes": "Shows and movies from enabled add-ons now appear directly in provider-neutral Popular, New and genre shelves. Direct HTTP and YouTube-ID results play inside OpenTV with headers and subtitles preserved, and viewing progress is saved in Keep Watching for one-press resume. Existing channels, favourites, settings, add-ons and logins are preserved.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 15673938
+  "apkSizeBytes": 15690319
 }
