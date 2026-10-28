@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.3-stremio-lab",
-  "title": "TV decoder reliability fix",
-  "notes": "OpenTV now falls back to the next compatible decoder when a television's preferred hardware decoder fails or becomes resource-exhausted. This fixes the all-channels 'no decoder for that format' failure seen on OutdoorTV. Existing channels, favourites, settings, add-ons and logins are preserved.",
+  "versionName": "0.13.4-stremio-lab",
+  "title": "Decoder, guide and internal playback repair",
+  "notes": "OpenTV now falls back when a device's preferred hardware decoder fails, directly repairs a blank bundled guide using the current on-device XMLTV data, automatically downloads future signed updates and opens Android's install confirmation, and plays genuine HTTP/HLS/DASH/YouTube add-on results internally instead of launching another app. Existing channels, favourites, settings, add-ons and logins are preserved.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 15690317
+  "apkSizeBytes": 15690296
 }
