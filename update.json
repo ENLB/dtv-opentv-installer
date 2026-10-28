@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.2-stremio-lab",
-  "title": "Phone add-on management",
-  "notes": "Add-ons can now be tested, added, enabled, disabled and removed from OpenTV's local phone/laptop manager. Changes refresh the TV library without an app restart, add-on terminology is provider-neutral, and personalised manifest URLs remain stored only on the TV. Existing channels, favourites, settings, add-ons and logins are preserved.",
+  "versionName": "0.13.3-stremio-lab",
+  "title": "TV decoder reliability fix",
+  "notes": "OpenTV now falls back to the next compatible decoder when a television's preferred hardware decoder fails or becomes resource-exhausted. This fixes the all-channels 'no decoder for that format' failure seen on OutdoorTV. Existing channels, favourites, settings, add-ons and logins are preserved.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 15690308
+  "apkSizeBytes": 15690317
 }
