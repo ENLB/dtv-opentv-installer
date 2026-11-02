@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.5-stremio-lab",
-  "title": "Persistent live TV while browsing",
-  "notes": "A live channel now keeps playing in a focusable mini-player while you browse Movies, Shows, Add-ons, Search, Settings and other OpenTV screens. Selecting the mini-player returns to full screen; its close button stops live TV. The same player and decoder move between full-screen and mini-player modes, and live TV stops before on-demand playback so decoder load is never doubled. Existing channels, guide, favourites, settings, add-ons and logins are preserved.",
+  "versionName": "0.13.6-stremio-lab",
+  "title": "Expanded, deduplicated public TV library",
+  "notes": "Adds credential-free public FAST/FTA catalogues for Pluto, Samsung, Roku, Tubi, LG, Vizio, Whale TV+, Xiaomi, Xumo, Local Now, VIDAA, Fire TV, TCL and Free-TV. The library now contains 13,765 unique channels and 131,364 real guide entries, with duplicate names/URLs removed and 1,147 confirmed dead, login-gated or invalid endpoints quarantined. Existing favourites, folders, hidden channels, settings, add-ons and logins are preserved; the catalogue refresh runs once in the background after the interface is responsive.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 15690309
+  "apkSizeBytes": 20246549
 }
