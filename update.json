@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.7-stremio-lab",
-  "title": "Complete WirelessHack playlist import",
-  "notes": "Imports every distinct stream URL exposed by every playlist on the referenced WirelessHack page, including regional and category subsets, Plex tokenised entries and the full IPTV-org M3U. The library contains 25,256 unique stream URLs with provider/country disambiguation for repeated titles and 157,588 real guide entries. Health results are reported but do not remove site-supplied rows. Existing favourites, folders, hidden channels, settings, add-ons and logins are preserved; one background catalogue refresh runs after the interface is responsive.",
+  "versionName": "0.13.8-stremio-lab",
+  "title": "Responsive sectional guide and expanded EPG",
+  "notes": "Stops loading the complete global programme index for every folder. OpenTV now queries only the selected section in safe database batches, preventing the large guide allocation that caused remote lag, ANRs and memory-pressure exits. The full 25,395-stream catalogue remains available. Roku, Tubi and global Plex schedules raise the combined guide to 8,523 guide channels and 342,325 real programme entries. Existing favourites, folders, hidden channels, settings, add-ons and logins are preserved.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 23118567
+  "apkSizeBytes": 31768947
 }
