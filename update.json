@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.6-stremio-lab",
-  "title": "Expanded, deduplicated public TV library",
-  "notes": "Adds credential-free public FAST/FTA catalogues for Pluto, Samsung, Roku, Tubi, LG, Vizio, Whale TV+, Xiaomi, Xumo, Local Now, VIDAA, Fire TV, TCL and Free-TV. The library now contains 13,765 unique channels and 131,364 real guide entries, with duplicate names/URLs removed and 1,147 confirmed dead, login-gated or invalid endpoints quarantined. Existing favourites, folders, hidden channels, settings, add-ons and logins are preserved; the catalogue refresh runs once in the background after the interface is responsive.",
+  "versionName": "0.13.7-stremio-lab",
+  "title": "Complete WirelessHack playlist import",
+  "notes": "Imports every distinct stream URL exposed by every playlist on the referenced WirelessHack page, including regional and category subsets, Plex tokenised entries and the full IPTV-org M3U. The library contains 25,256 unique stream URLs with provider/country disambiguation for repeated titles and 157,588 real guide entries. Health results are reported but do not remove site-supplied rows. Existing favourites, folders, hidden channels, settings, add-ons and logins are preserved; one background catalogue refresh runs after the interface is responsive.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 20246549
+  "apkSizeBytes": 23118567
 }
