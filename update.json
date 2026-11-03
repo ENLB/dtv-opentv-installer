@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.10-stremio-lab",
-  "title": "Correct self-contained D TV update",
-  "notes": "Corrects the 0.13.9 distribution error: Downloader now serves the upgrade-compatible app.opentv.stremiolab package rather than the plain upstream variant. Fresh installs import the 25,398-channel bundled playlist directly from the APK and only mark setup complete after the catalogue is stored, so an interrupted first launch retries instead of remaining empty. Existing D TV installations receive a one-time non-destructive catalogue and guide refresh while preserving favourites, folders, hidden channels, history, settings, add-ons and logins. Android still requires its standard Install confirmation because ordinary sideloaded apps cannot silently replace themselves.",
+  "versionName": "0.13.11-stremio-lab",
+  "title": "Cross-network playback reliability update",
+  "notes": "Fixes channels spinning indefinitely on home networks that advertise unusable IPv6 routes. Stream playback now prefers IPv4 while retaining IPv6 as a fallback, and a 20-second startup watchdog replaces endless buffering with a useful retryable error. The APK remains self-contained with the organised 25,398-channel playlist and guide, and preserves existing favourites, folders, settings, add-ons and logins.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 33617137
+  "apkSizeBytes": 33617144
 }
