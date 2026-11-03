@@ -112,7 +112,33 @@ def folder_map(path: Path) -> dict[str, set[str]]:
     return result
 
 
-def choose(tags: set[str], fallback: str) -> str:
+def organised_labels(path: Path) -> tuple[list[str], dict[str, str]]:
+    """Flatten OpenTV's virtual tree into one ordered M3U group name per node."""
+    rows: list[tuple[str, str, str]] = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line or line.startswith("#"):
+            continue
+        key, label, parent, *_ = line.split("\t")
+        rows.append((key, label.strip(" ★•"), parent))
+    names = {key: label for key, label, _parent in rows}
+    main_order = {key: index + 1 for index, (key, _label, parent) in enumerate(row for row in rows if not row[2])}
+    labels: dict[str, str] = {}
+    for key, label, parent in rows:
+        main = parent or key
+        prefix = main_order[main]
+        labels[key] = (
+            f"{prefix:02d} · {names[main]} · {label}"
+            if parent else f"{prefix:02d} · {label} · All"
+        )
+    # Subcategories precede their parent "All" node when selecting a channel's single M3U group.
+    ordered = [key for key, _label, parent in rows if parent] + [key for key, _label, parent in rows if not parent]
+    return ordered, labels
+
+
+def choose(tags: set[str], fallback: str, ordered: list[str], labels: dict[str, str]) -> str:
+    for tag in ordered:
+        if tag in tags:
+            return labels[tag]
     for tag in PRIORITY:
         if tag in tags:
             return LABELS[tag]
@@ -124,6 +150,8 @@ def main() -> None:
         raise SystemExit("usage: build_organised_playlist.py INPUT_M3U FOLDERS_TSV OUTPUT_M3U")
     source, folders_path, output = map(Path, sys.argv[1:])
     folders = folder_map(folders_path)
+    catalog_path = folders_path.with_name("folder-catalog.tsv")
+    ordered, dynamic_labels = organised_labels(catalog_path) if catalog_path.exists() else ([], {})
     lines = source.read_text(encoding="utf-8-sig").splitlines()
     out = ['#EXTM3U x-tvg-url="https://enlb.github.io/dtv-opentv-installer/guide.xml.gz"']
     pending: list[str] = []
@@ -146,7 +174,7 @@ def main() -> None:
             seen_urls.add(url)
             match = re.search(r'group-title="([^"]*)"', extinf)
             fallback = match.group(1) if match else "Other"
-            label = choose(folders.get(url, set()), fallback)
+            label = choose(folders.get(url, set()), fallback, ordered, dynamic_labels)
             replacement = f'group-title="{label}"'
             if match:
                 extinf = extinf[: match.start()] + replacement + extinf[match.end() :]

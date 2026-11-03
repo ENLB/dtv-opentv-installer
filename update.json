@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.8-stremio-lab",
-  "title": "Responsive sectional guide and expanded EPG",
-  "notes": "Stops loading the complete global programme index for every folder. OpenTV now queries only the selected section in safe database batches, preventing the large guide allocation that caused remote lag, ANRs and memory-pressure exits. The full 25,395-stream catalogue remains available. Roku, Tubi and global Plex schedules raise the combined guide to 8,523 guide channels and 342,325 real programme entries. Existing favourites, folders, hidden channels, settings, add-ons and logins are preserved.",
+  "versionName": "0.13.9-stremio-lab",
+  "title": "Complete organised guide and indexed folder loading",
+  "notes": "Applies the complete Version 4 organisation to all 25,398 current streams across 142 ordered virtual folders, with Lebanon & Arabic and Australia & English first. Folder changes now query only their exact channel URLs in safe database batches instead of loading and filtering the entire catalogue, reducing remote lag, ANRs and memory-pressure crashes. Notification permission handling and add-on URL encoding are hardened, the full release lint and unit-test gates pass, and 377,216 real programme entries cover 8,598 guide channels. Existing favourites, custom folder choices, hidden channels, history, settings, add-ons and logins are preserved.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 31768947
+  "apkSizeBytes": 33203813
 }
