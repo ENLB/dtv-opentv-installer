@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.9-stremio-lab",
-  "title": "Complete organised guide and indexed folder loading",
-  "notes": "Applies the complete Version 4 organisation to all 25,398 current streams across 142 ordered virtual folders, with Lebanon & Arabic and Australia & English first. Folder changes now query only their exact channel URLs in safe database batches instead of loading and filtering the entire catalogue, reducing remote lag, ANRs and memory-pressure crashes. Notification permission handling and add-on URL encoding are hardened, the full release lint and unit-test gates pass, and 377,216 real programme entries cover 8,598 guide channels. Existing favourites, custom folder choices, hidden channels, history, settings, add-ons and logins are preserved.",
+  "versionName": "0.13.10-stremio-lab",
+  "title": "Correct self-contained D TV update",
+  "notes": "Corrects the 0.13.9 distribution error: Downloader now serves the upgrade-compatible app.opentv.stremiolab package rather than the plain upstream variant. Fresh installs import the 25,398-channel bundled playlist directly from the APK and only mark setup complete after the catalogue is stored, so an interrupted first launch retries instead of remaining empty. Existing D TV installations receive a one-time non-destructive catalogue and guide refresh while preserving favourites, folders, hidden channels, history, settings, add-ons and logins. Android still requires its standard Install confirmation because ordinary sideloaded apps cannot silently replace themselves.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 33203813
+  "apkSizeBytes": 33617137
 }
