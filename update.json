@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.11-stremio-lab",
-  "title": "Cross-network playback reliability update",
-  "notes": "Fixes channels spinning indefinitely on home networks that advertise unusable IPv6 routes. Stream playback now prefers IPv4 while retaining IPv6 as a fallback, and a 20-second startup watchdog replaces endless buffering with a useful retryable error. The APK remains self-contained with the organised 25,398-channel playlist and guide, and preserves existing favourites, folders, settings, add-ons and logins.",
+  "versionName": "0.13.12-stremio-lab",
+  "title": "Universal Android playback transport update",
+  "notes": "Replaces the OkHttp-Media3 live transport with Android's native HTTP transport for compatibility with devices that can browse and download normally but time out on every stream. Required per-channel user-agent and referrer headers, cross-protocol redirects, the 20-second startup watchdog, bundled 25,398-channel playlist and guide are retained. Existing favourites, folders, settings, add-ons and logins are preserved.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 33617144
+  "apkSizeBytes": 33600747
 }
