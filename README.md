@@ -8,4 +8,7 @@ variant and verifies that the upgrade-compatible `app.opentv.stremiolab` APK con
 bundled playlist, guide and folder indexes.
 
 The internal package identifier is retained solely for in-place upgrade compatibility. The installed
-application name and displayed version are `OpenTV` and `0.13.16`.
+application name and displayed version are `OpenTV` and `0.13.17`.
+
+The optional Tribler integration is a REST client for a user-owned Tribler 8 core. Tribler itself is
+not bundled; configure its address, API key and anonymous-hop preference under Settings → Tribler.

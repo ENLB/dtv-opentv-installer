@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.16",
-  "title": "Split search results and recent-channel controls",
-  "notes": "Search now presents independently scrollable On Now, Coming Up and Channels lists, while retaining separate Movies and Shows results. Recently Watched channels can be removed individually from their channel action menu without hiding or deleting them from the catalogue.",
+  "versionName": "0.13.17",
+  "title": "Tribler P2P bridge",
+  "notes": "Adds an optional Tribler 8 bridge for private P2P search, magnet/infohash downloads, anonymous hop and safe-seeding controls, download status and direct playback inside OpenTV. P2P add-on results now resolve through a user-owned Tribler core instead of being rejected or opened externally.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 33771518
+  "apkSizeBytes": 33804293
 }
