@@ -8,7 +8,8 @@ variant and verifies that the upgrade-compatible `app.opentv.stremiolab` APK con
 bundled playlist, guide and folder indexes.
 
 The internal package identifier is retained solely for in-place upgrade compatibility. The installed
-application name and displayed version are `OpenTV` and `0.13.17`.
+application name and displayed version are `OpenTV` and `0.13.18`.
 
-The optional Tribler integration is a REST client for a user-owned Tribler 8 core. Tribler itself is
-not bundled; configure its address, API key and anonymous-hop preference under Settings → Tribler.
+P2P transport is embedded using FrostWire jlibtorrent 2.0.15.3 (MIT). Add-on magnet and info-hash
+results therefore play on the Android device without a computer or external player. This transport
+does not claim Tribler's anonymity or community/search features. Android 8.0 or newer is required.

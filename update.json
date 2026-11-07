@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.17",
-  "title": "Tribler P2P bridge",
-  "notes": "Adds an optional Tribler 8 bridge for private P2P search, magnet/infohash downloads, anonymous hop and safe-seeding controls, download status and direct playback inside OpenTV. P2P add-on results now resolve through a user-owned Tribler core instead of being rejected or opened externally.",
+  "versionName": "0.13.18",
+  "title": "Standalone on-device P2P playback",
+  "notes": "Add-on magnet and info-hash results now prepare and play directly inside OpenTV on the Android device. No computer, remote service, account or external player is required. This is an in-place upgrade that preserves each device's add-ons, Recently Watched list, favourites, progress and settings.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 33804293
+  "apkSizeBytes": 85060752
 }
