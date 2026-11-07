@@ -30,7 +30,7 @@ def main() -> None:
     expected = {
         "name": "app.opentv.stremiolab",
         "versionCode": str(args.version_code),
-        "versionName": f"{args.version}-stremio-lab",
+        "versionName": args.version,
     }
     for key, value in expected.items():
         if not re.search(rf"\b{key}='{re.escape(value)}'", first):

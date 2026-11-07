@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.13-stremio-lab",
-  "title": "Stable selected-channel preview and v5 library",
-  "notes": "Removes the persistent/background live window and releases full-screen playback whenever its screen closes, reducing decoder contention, crashes and remote lag. The guide preview now stays on the channel explicitly selected with OK while focus can move freely through the EPG. Includes the complete v5 hierarchical classification for the bundled 25,398-channel playlist. Existing personal favourites, settings, add-ons and logins are preserved.",
+  "versionName": "0.13.14",
+  "title": "OpenTV v7 navigation and complete catalogue",
+  "notes": "Introduces the eight-section v7 television navigation, nested sports, shows, movies and music views, and alphabetical country browsing. The bundled catalogue preserves all 25,395 workbook streams plus 24 existing DTV streams, while retaining favourites, settings, guide associations and playback progress. User-facing branding is now exclusively OpenTV.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 33743551
+  "apkSizeBytes": 33770220
 }
