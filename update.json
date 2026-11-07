@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.19",
-  "title": "P2P selection and playback fix",
-  "notes": "Fixes P2P selections that previously appeared to do nothing. Movies and the Add-ons library now use the same embedded engine, magnet selected-file parameters are parsed correctly, the player waits safely for libtorrent storage, and a visible preparation or error message is shown. The in-place upgrade preserves each device's add-ons, Recently Watched list, favourites, progress and settings.",
+  "versionName": "0.13.20",
+  "title": "Cancellable, bounded P2P preparation",
+  "notes": "P2P preparation can now be cancelled immediately with Back or the visible Cancel button. No-peer results stop automatically after 40 seconds with a useful error instead of trapping the interface. Both Movies and Add-ons retain their source lists so another result can be selected. The in-place upgrade preserves each device's add-ons, Recently Watched list, favourites, progress and settings.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
   "apkSizeBytes": 85060752
 }
