@@ -8,4 +8,4 @@ variant and verifies that the upgrade-compatible `app.opentv.stremiolab` APK con
 bundled playlist, guide and folder indexes.
 
 The internal package identifier is retained solely for in-place upgrade compatibility. The installed
-application name and displayed version are `OpenTV` and `0.13.14`.
+application name and displayed version are `OpenTV` and `0.13.15`.
