@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.15",
-  "title": "Recently Watched live channels",
-  "notes": "Adds a Recently Watched section above Arabic containing the latest 100 distinct live channels in newest-first order. Rewatching a channel moves it to the top without duplicates. Existing favourites, catalogue, settings, guide associations and playback progress remain intact.",
+  "versionName": "0.13.16",
+  "title": "Split search results and recent-channel controls",
+  "notes": "Search now presents independently scrollable On Now, Coming Up and Channels lists, while retaining separate Movies and Shows results. Recently Watched channels can be removed individually from their channel action menu without hiding or deleting them from the catalogue.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 33770646
+  "apkSizeBytes": 33771518
 }
