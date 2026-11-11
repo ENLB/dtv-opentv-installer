@@ -29674,7 +29674,7 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
 #EXTINF:-1 tvg-id="NatureTime.ca@France" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="International / Other / Unverified",NatureTime France (1080p)
 https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NutaGold.pl@SD" tvg-logo="https://i.imgur.com/BEs160o.png" group-title="International / Other / Unverified",Nuta Gold
+#EXTINF:-1 tvg-id="NutaGold.pl@SD" tvg-logo="https://i.imgur.com/BEs160o.png" group-title="International / Other / Unverified" dtv-unavailable="1",Nuta Gold
 http://92.114.85.87:8010/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMiObsesionFavorita.us@LatAm" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png" group-title="International / Other / Unverified" dtv-unavailable="1",Pluto TV Mi Obsesion Favorita
 https://jmp2.uk/plu-6109ab25b84d6a0007504886.m3u8
@@ -42056,7 +42056,7 @@ https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/p
 https://jmp2.uk/stvp-IT34000016N
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hJHC3uQ.png" group-title="International / Italy",Video Mediterraneo
 https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M5z5UoD.jpg" group-title="International / Italy",Video Nola
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M5z5UoD.jpg" group-title="International / Italy" dtv-unavailable="1",Video Nola
 https://videonola.aswifi.it/videonolaabr/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0szwnR3.png" group-title="International / Italy",Video Regione Sicilia
 https://57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
@@ -45433,7 +45433,7 @@ https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 http://57.128.210.196:8080/160/index.m3u8
 #EXTINF:-1 tvg-id="TVCSuper.pl" group-title="International / Poland",TVC Super
 http://92.114.85.87:8010/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="TVC.pl" group-title="International / Poland",TVC · Free-to-air · PL
+#EXTINF:-1 tvg-id="TVC.pl" group-title="International / Poland" dtv-unavailable="1",TVC · Free-to-air · PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://92.114.85.87:8010/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="TVKStella.pl" group-title="International / Poland",TVK Stella
