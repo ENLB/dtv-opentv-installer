@@ -8,7 +8,12 @@ variant and verifies that the upgrade-compatible `app.opentv.stremiolab` APK con
 bundled playlist, guide and folder indexes.
 
 The internal package identifier is retained solely for in-place upgrade compatibility. The installed
-application name and displayed version are `OpenTV` and `0.13.20`.
+application name and displayed version are `OpenTV` and `0.13.21`.
+
+Stream health is managed without deleting channel identities. Repeatedly confirmed-dead stream
+variants are omitted from ordinary browsing while their stable records, favourites and placement
+remain intact. The catalogue refreshes automatically and restores a stream after two successful
+recovery checks.
 
 P2P transport is embedded using FrostWire jlibtorrent 2.0.15.3 (MIT). Add-on magnet and info-hash
 results therefore play on the Android device without a computer or external player. This transport

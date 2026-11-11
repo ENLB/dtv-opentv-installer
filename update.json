@@ -1,7 +1,7 @@
 {
-  "versionName": "0.13.20",
-  "title": "Cancellable, bounded P2P preparation",
-  "notes": "P2P preparation can now be cancelled immediately with Back or the visible Cancel button. No-peer results stop automatically after 40 seconds with a useful error instead of trapping the interface. Both Movies and Add-ons retain their source lists so another result can be selected. The in-place upgrade preserves each device's add-ons, Recently Watched list, favourites, progress and settings.",
+  "versionName": "0.13.21",
+  "title": "Reversible channel-health filtering",
+  "notes": "Repeatedly confirmed-dead stream variants no longer appear in normal channel lists, so selecting them cannot lead to an endless spinner. Channel identities, favourites and folder placement remain stored. The six-hour catalogue refresh automatically restores recovered streams after two successful audit checks. This in-place upgrade preserves each device's add-ons, Recently Watched list, favourites, progress and settings.",
   "apkUrl": "https://enlb.github.io/dtv-opentv-installer/OpenTV-DTV.apk",
-  "apkSizeBytes": 85060752
+  "apkSizeBytes": 85065064
 }
