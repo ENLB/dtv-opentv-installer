@@ -52108,7 +52108,7 @@ https://dethich.pw/htv4/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 tvg-id="HTV7.vn" group-title="International / Vietnam",HTV7
 https://dethich.pw/htv7/index.m3u8
-#EXTINF:-1 tvg-id="HTV9.vn" group-title="International / Vietnam",HTV9
+#EXTINF:-1 tvg-id="HTV9.vn" group-title="International / Vietnam" dtv-unavailable="1",HTV9
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-id="HTVCFamily.vn" group-title="International / Vietnam",HTVC Family
 https://dethich.pw/htvcgiadinh/index.m3u8
