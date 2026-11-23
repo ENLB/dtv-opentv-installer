@@ -27407,7 +27407,7 @@ http://118.122.2.29:9999/hls/47/index.m3u8
 https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
 #EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn" group-title="International / China",Nei Monggol TV 2 Mongolian Culture Channel
 http://1.24.190.98:10080/hls/40/index.m3u8
-#EXTINF:-1 tvg-id="QinghaiTV.cn" group-title="International / China",Qinghai TV
+#EXTINF:-1 tvg-id="QinghaiTV.cn" group-title="International / China" dtv-unavailable="1",Qinghai TV
 https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 #EXTINF:-1 tvg-id="QTV1.cn" group-title="International / China",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
@@ -32463,7 +32463,7 @@ https://video0.rogohosting.com:19360/4982/4982.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="StarJalsha.in@SD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="International / Other / Unverified",Star Jalsha (576p)
 http://103.151.60.162:2122/play/a00w/index.m3u8?hls
-#EXTINF:-1 tvg-id="StarTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/15.png" group-title="International / Other / Unverified",Star TV (Mongolia) (1080p)
+#EXTINF:-1 tvg-id="StarTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/15.png" group-title="International / Other / Unverified" dtv-unavailable="1",Star TV (Mongolia) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
 #EXTINF:-1 tvg-id="StaraTV.id@SumedangMajalengka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="International / Other / Unverified",Stara TV (720p)
@@ -39396,7 +39396,7 @@ https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8
 https://fta.ektv.in/live/653/master.m3u8
 #EXTINF:-1 tvg-id="NaxatraNewsHindi.in" group-title="International / India",Naxatra News Hindi
 https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="News24.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540" group-title="International / Other / Unverified",News 24 (India) (720p)
+#EXTINF:-1 tvg-id="News24.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540" group-title="International / Other / Unverified" dtv-unavailable="1",News 24 (India) (720p)
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="News7Tamil.in" group-title="International / India",News 7 Tamil
 https://cdn.pishow.tv/ott/live/1498/master.m3u8
@@ -52054,7 +52054,7 @@ https://dethich.pw/htvthethao/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 tvg-id="ONVieDramas.vn" group-title="International / Vietnam",ON Vie Dramas
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 tvg-id="HTVCMovies.vn" group-title="International / Vietnam",HTVC Movies
+#EXTINF:-1 tvg-id="HTVCMovies.vn" group-title="International / Vietnam" dtv-unavailable="1",HTVC Movies
 https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1 tvg-id="ONCine.vn" group-title="International / Vietnam",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
