@@ -30041,7 +30041,7 @@ https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-id="AmaniTV.sn@SD" tvg-logo="https://i.imgur.com/0cY4K7G.png" group-title="International / Other / Unverified",Amani TV (1080p) [Not 24/7]
 https://goccn.cloud/hls/amanitv/index.m3u8
-#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca@SD" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="International / Other / Unverified" dtv-unavailable="1",Amazing Discoveries TV (720p)
+#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca@SD" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="International / Other / Unverified",Amazing Discoveries TV (720p)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonicaTV.pe@SD" tvg-logo="https://i.imgur.com/22ebHAX.jpeg" group-title="International / Other / Unverified",Amazonica TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
@@ -31946,7 +31946,7 @@ http://92.114.85.87:8014/play/a00a/index.m3u8
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PopuTV.py@SD" tvg-logo="https://i.imgur.com/UqCogyZ.png" group-title="International / Other / Unverified" dtv-unavailable="1",Popu TV (1080p)
 http://190.108.83.69:8000/play/a070/index.m3u8
-#EXTINF:-1 tvg-id="PopularTVMelilla.es@SD" tvg-logo="https://i.imgur.com/TbevWX4.png" group-title="International / Other / Unverified",Popular TV Melilla (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="PopularTVMelilla.es@SD" tvg-logo="https://i.imgur.com/TbevWX4.png" group-title="International / Other / Unverified" dtv-unavailable="1",Popular TV Melilla (1080p) [Not 24/7]
 http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="International / Other / Unverified",Powder
 https://amg13231-amg13231c5-xiaomi-international-2912.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-xiaomiinternational/playlist.m3u8
@@ -34494,7 +34494,7 @@ https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
 https://cdnfox.hostlagarto.com/cct49/index.m3u8
 #EXTINF:-1 tvg-id="CVVisionTV.do" group-title="International / Dominican Republic",CV Vision TV
 https://eu1.servers10.com:8081/8128/index.m3u8
-#EXTINF:-1 tvg-id="DeUltimoMinutoTV.do" group-title="International / Dominican Republic" dtv-unavailable="1",De Ultimo Minuto TV
+#EXTINF:-1 tvg-id="DeUltimoMinutoTV.do" group-title="International / Dominican Republic",De Ultimo Minuto TV
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 #EXTINF:-1 tvg-id="DelPuebloTV.do" group-title="International / Dominican Republic",Del Pueblo TV
 https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
@@ -34661,7 +34661,7 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 https://mp.panelchs.com:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 tvg-id="ReporteroTV.do" group-title="International / Dominican Republic",Reportero TV
 https://streamrd.cloud:5443/LiveApp/streams/J3E3REmLNBzirS9A10575071547538.m3u8
-#EXTINF:-1 tvg-id="RNN.do" group-title="International / Dominican Republic" dtv-unavailable="1",RNN DOS
+#EXTINF:-1 tvg-id="RNN.do" group-title="International / Dominican Republic",RNN DOS
 https://2-fss-2.streamhoster.com/pl_138/206532-6829912-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RocavisionTV.do" group-title="International / Dominican Republic",Rocavision TV
 https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
