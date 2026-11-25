@@ -32445,7 +32445,7 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 http://45.171.64.30:6060/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="SPCCanal15.bo@SD" tvg-logo="https://i.imgur.com/8GzjELt.jpeg" group-title="International / Other / Unverified",SPC Canal 15 (720p)
 https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
-#EXTINF:-1 tvg-id="SpeedlineTV.bj@SD" tvg-logo="https://i.imgur.com/1lXShsh.png" group-title="International / Other / Unverified" dtv-unavailable="1",Speedline TV
+#EXTINF:-1 tvg-id="SpeedlineTV.bj@SD" tvg-logo="https://i.imgur.com/1lXShsh.png" group-title="International / Other / Unverified",Speedline TV
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/dbe59037-07a0-4f1c-82a2-7de94b4b62d2/index.m3u8
 #EXTINF:-1 tvg-id="Spondon.in@SD" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" group-title="International / Other / Unverified",Spondon (1080p)
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
@@ -52208,7 +52208,7 @@ https://dethich.pw/vtv5/index.m3u8
 https://dethich.pw/vtv5tnb/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNguyen.vn" group-title="International / Vietnam",VTV5 Tay Nguyen HD
 http://dethich.pw/vtv5tn/index.m3u8
-#EXTINF:-1 tvg-id="VTV6.vn" group-title="International / Vietnam",VTV6
+#EXTINF:-1 tvg-id="VTV6.vn" group-title="International / Vietnam" dtv-unavailable="1",VTV6
 https://dethich.pw/vtv6/index.m3u8
 #EXTINF:-1 tvg-id="VTV7.vn" group-title="International / Vietnam",VTV7 HD
 https://dethich.pw/vtv7/index.m3u8
