@@ -2482,9 +2482,9 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-680ad9f73f3c
 https://live-manifest.production-public.tubi.io/live/b92c560a-132b-4f67-a993-94794a9ab904/playlist.m3u8
 #EXTINF:-1 tvg-id="DAZN3.uk" group-title="English / All Channels",DAZN 3 Portugal
 http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1 tvg-id="DAZN4.uk" group-title="English / All Channels",DAZN 4
+#EXTINF:-1 tvg-id="DAZN4.uk" group-title="English / All Channels" dtv-unavailable="1",DAZN 4
 http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1 tvg-id="DAZN5.uk" group-title="English / All Channels",DAZN 5
+#EXTINF:-1 tvg-id="DAZN5.uk" group-title="English / All Channels" dtv-unavailable="1",DAZN 5
 http://23.237.104.106:8080/DAZN_5/index.m3u8
 #EXTINF:-1 tvg-id="64805922536e0c0008a1a1e6" group-title="English / All Channels" dtv-unavailable="1",DAZN Combat
 https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8
@@ -6725,7 +6725,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63c1e47ef0f1
 https://5ee29b66.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSG9saWRheU1vdmllRmF2b3JpdGVzYnlMaWZldGltZV9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-69bad1dfc68ea9badd9faf5a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/18bab13d-afa7-4df6-8149-c8ddef9dd212/Lifetime_Movies_channel_logo_white_1500x1000.png" group-title="English / All Channels" dtv-unavailable="1",Lifetime Movies
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-69bad1dfc68ea9badd9faf5a/?X-Plex-Token=nHvecJZjCxxH5gYJFtie
-#EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="English / All Channels",Lifetime Movies (1080p)
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="English / All Channels" dtv-unavailable="1",Lifetime Movies (1080p)
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="English / All Channels",Lifetime Movies (GB)
 https://amg26277-amg26277c12-vidaa-gb-11245.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26277-aeusainternational-lifetimemoviesint-vidaagb/playlist.m3u8
@@ -6972,7 +6972,7 @@ https://edge-fast.evrideo.tv/4e160454-ffee-4efc-beb6-a141b0343f51_0_HLS/manifest
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in" group-title="English / All Channels",Star Movies HD
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-#EXTINF:-1 tvg-id="StarzCinema.us@East" tvg-logo="https://i.imgur.com/ghzzKoT.png" group-title="English / All Channels",Starz Cinema (720p)
+#EXTINF:-1 tvg-id="StarzCinema.us@East" tvg-logo="https://i.imgur.com/ghzzKoT.png" group-title="English / All Channels" dtv-unavailable="1",Starz Cinema (720p)
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 #EXTINF:-1 tvg-id="XUMO_99991300" tvg-logo="https://image.xumo.com/v1/channels/channel/99991300/300x300.webp?type=color_onBlack" group-title="English / All Channels",Stash TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991300/hls/master.m3u8
@@ -7358,7 +7358,7 @@ https://jmp2.uk/stvp-US2900013AY
 https://jmp2.uk/stvp-US2900015RO
 #EXTINF:-1 tvg-id="400000033" tvg-logo="https://canvas-lb.tubitv.com/opts/_oaMTbqkvgy0VA==/4258e598-4722-409b-8e3c-625f800ba9ba/CHgQeDoFMS4xLjlAAQ==" group-title="English / All Channels",Kartoon Channel! · Tubi · US
 https://live-manifest.production-public.tubi.io/live/ede882c2-43d6-4eca-9351-ea29e84dc217/playlist.m3u8
-#EXTINF:-1 tvg-id="USAK3508716A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20250826T234601SQUARE.png" tvg-chno="3708" group-title="English / All Channels",Kidoodle.TV · Samsung TV Plus US · US
+#EXTINF:-1 tvg-id="USAK3508716A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20250826T234601SQUARE.png" tvg-chno="3708" group-title="English / All Channels" dtv-unavailable="1",Kidoodle.TV · Samsung TV Plus US · US
 https://jmp2.uk/stvp-USAK3508716A
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.vizio.com/v4/btv/1/1641822555/1/267/150/0.jpg" group-title="English / All Channels",Kidoodle.TV · Vizio WatchFree+ · US
 https://amg07653-apmc-amg07653c9-vizio-us-8497.playouts.now.amagi.tv/playlist/amg07653-aparentmediacoinc-kidoodletvusa-vizious/playlist.m3u8
@@ -15909,7 +15909,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us@WXXVTV" tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="English / All Channels",Fox (United States) WXXV-TV (720p)
 https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="English / All Channels",Fox Deportes (720p)
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="English / All Channels" dtv-unavailable="1",Fox Deportes (720p)
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="667f2c7b22acab0008b7072b" tvg-logo="https://images.pluto.tv/channels/667f2c7b22acab0008b7072b/colorLogoPNG_1766525230432.png" tvg-chno="5151" group-title="English / All Channels",FOX LOCAL Los Angeles
 https://jmp2.uk/plu-667f2c7b22acab0008b7072b.m3u8
@@ -16207,7 +16207,7 @@ https://d3101z9qr4ngug.cloudfront.net/v1/master/5bb30b269f83d6c44f720981f63d8cdf
 https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8
 #EXTINF:-1 tvg-id="GlobalWorldTV.us" group-title="English / All Channels",GlobalWorldTV
 https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
-#EXTINF:-1 tvg-id="GMTV.us@SD" tvg-logo="https://i.imgur.com/GJYb8c8.png" group-title="English / All Channels",GMTV (1080p)
+#EXTINF:-1 tvg-id="GMTV.us@SD" tvg-logo="https://i.imgur.com/GJYb8c8.png" group-title="English / All Channels" dtv-unavailable="1",GMTV (1080p)
 https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341
 #EXTINF:-1 tvg-id="" group-title="English / All Channels",Go English -TCL (Geo)
 https://amg02051-soulpublishing-amg02051c17-tclideo-northamerica-527.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-tclideonorthamerica/playlist.m3u8
@@ -17761,7 +17761,7 @@ https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 #EXTINF:-1 tvg-id="CA1400001PI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400001PI_20261013T224422SQUARE.png" tvg-chno="2315" group-title="English / All Channels",MLB Channel
 https://jmp2.uk/stvp-CA1400001PI
-#EXTINF:-1 tvg-id="MLBStrikeZone.us@SD" tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="English / All Channels",MLB Strike Zone (720p)
+#EXTINF:-1 tvg-id="MLBStrikeZone.us@SD" tvg-logo="https://i.imgur.com/uMI1ySO.png" group-title="English / All Channels" dtv-unavailable="1",MLB Strike Zone (720p)
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/mlb/channels/847-400x200.png" group-title="English / All Channels",MLB · LG Channels · US
 https://linear-847.frequency.stream/dist/lg-us/847/hls/master/playlist.m3u8
@@ -17933,7 +17933,7 @@ https://livestream.telvue.com/madrivervalleytv2/f7b44cfafd5c52223d5498196c8a2e7b
 https://p13.usnlive.com/stream/msnbc.m3u8
 #EXTINF:-1 tvg-id="MSNOW.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png" group-title="English / All Channels",MS NOW (432p)
 https://tvsen6.aynaott.com/msnbc/index.m3u8
-#EXTINF:-1 tvg-id="MSG.us@SD" tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="English / All Channels",MSG (720p)
+#EXTINF:-1 tvg-id="MSG.us@SD" tvg-logo="https://i.imgur.com/SEQFh0P.png" group-title="English / All Channels" dtv-unavailable="1",MSG (720p)
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://img.platform.wurl.dev/channel/1386/lg/dad2b4/LG-Logo-PNG-100x100_v1.png" group-title="English / All Channels",MSG SportsZone
 https://wurlrainbowmedia.global.transmit.live/hls/68c4987e18e2a74e37774fb6/v1/amc_msgsportszone_1/lg_us/latest/main/hls/playlist.m3u8
@@ -19303,7 +19303,7 @@ https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedADvenirTV.bo@KSCE" tvg-logo="https://i.imgur.com/970zAEn.png" group-title="English / All Channels",RedADvenir TV KSCE (360p)
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Reelz.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png" group-title="English / All Channels",Reelz (720p)
+#EXTINF:-1 tvg-id="Reelz.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png" group-title="English / All Channels" dtv-unavailable="1",Reelz (720p)
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/reelz/channels/190-FamousInfamousLogo_WhiteStacked_400x200.png" group-title="English / All Channels",Reelz Famous & Infamous
 https://linear-190.frequency.stream/dist/lg-us/190/hls/master/playlist.m3u8
@@ -25502,7 +25502,7 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
 #EXTINF:-1 tvg-id="RTV.bd" group-title="International / Bangladesh",RTV · Free-to-air · BD
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
-#EXTINF:-1 tvg-id="RupashiBanglaTV.bd" group-title="International / Bangladesh",Rupashi Bangla TV
+#EXTINF:-1 tvg-id="RupashiBanglaTV.bd" group-title="International / Bangladesh" dtv-unavailable="1",Rupashi Bangla TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VoktaTV.bd" group-title="International / Bangladesh",Vokta TV
 https://vokta.raytahost.com/live/voktatv/index.m3u8
@@ -25984,7 +25984,7 @@ https://cdn-tiva-video01-logicahost-com-br.smartbit.co/canalaugetv/canalaugetv/p
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXN.br" group-title="International / Brazil",AXN
 http://170.83.16.50/AXN/index.m3u8
-#EXTINF:-1 tvg-id="Band.br" group-title="International / Brazil",Band
+#EXTINF:-1 tvg-id="Band.br" group-title="International / Brazil" dtv-unavailable="1",Band
 https://media.cdntvms.com.br/band_sat/index.m3u8
 #EXTINF:-1 tvg-id="BandNews.br" group-title="International / Brazil",BandNews
 https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
@@ -26486,7 +26486,7 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusPet.br" group-title="International / Brazil",TV+Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCRio.br" group-title="International / Brazil",TVC-Rio
+#EXTINF:-1 tvg-id="TVCRio.br" group-title="International / Brazil" dtv-unavailable="1",TVC-Rio
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="TVComunitaria.br" group-title="International / Brazil",TVCOM DF
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
@@ -30721,7 +30721,7 @@ https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd
 https://vps122407.serveur-vps.net/hls/drtv.m3u8
 #EXTINF:-1 tvg-id="DTV.hu@SD" tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="International / Other / Unverified" dtv-unavailable="1",DTV (Hungary) (720p) [Not 24/7]
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
-#EXTINF:-1 tvg-id="dTVi.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_DTVI.png" group-title="International / Other / Unverified",dTVi
+#EXTINF:-1 tvg-id="dTVi.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_DTVI.png" group-title="International / Other / Unverified" dtv-unavailable="1",dTVi
 https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 tvg-id="DubaiTVInternational.ae@SD" tvg-logo="https://i.imgur.com/UMmbyHv.png" group-title="International / Other / Unverified" dtv-unavailable="1",Dubai TV International (1080p)
 http://185.9.2.18/chid_139/index.m3u8
@@ -31245,7 +31245,7 @@ https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
 http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="JinvaniChannel.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143230_ld_h15_aa.png?lock=720x540" group-title="International / Other / Unverified",Jinvani Channel (720p)
 https://cdn.pishow.tv/ott/live/989/master.m3u8
-#EXTINF:-1 tvg-id="JN19.pe@SD" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="International / Other / Unverified",JN 19 (720p)
+#EXTINF:-1 tvg-id="JN19.pe@SD" tvg-logo="https://i.imgur.com/dudxyqk.png" group-title="International / Other / Unverified" dtv-unavailable="1",JN 19 (720p)
 http://187.102.210.46/JN19/index.m3u8
 #EXTINF:-1 tvg-id="JOBTV.ro@SD" tvg-logo="https://i.imgur.com/UzcZNe3.png" group-title="International / Other / Unverified",JOB TV (1080p)
 https://jobtvserver.eu/hls/stream.m3u8
@@ -32548,7 +32548,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6304ed624
 http://dtv.vol.net.ua/super_plus/index.m3u8
 #EXTINF:-1 tvg-id="Super7FM.do@SD" tvg-logo="https://i.imgur.com/TJEqwZo.png" group-title="International / Other / Unverified",Super7FM (720p)
 https://tv.livestreaminggroup.info:3295/live/super7tvlive.m3u8
-#EXTINF:-1 tvg-id="Super9TV.mx@SD" tvg-logo="https://i.imgur.com/TntqGmR.png" group-title="International / Other / Unverified",Super9 TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="Super9TV.mx@SD" tvg-logo="https://i.imgur.com/TntqGmR.png" group-title="International / Other / Unverified" dtv-unavailable="1",Super9 TV (480p) [Not 24/7]
 https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperGeroi.ru@SD" tvg-logo="https://i.imgur.com/c0zZUR1.png" group-title="International / Other / Unverified",SuperGeroi (1080p)
 http://31.148.48.15/Malish_TV/index.m3u8
@@ -32740,7 +32740,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb58aa6
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9SRojGx.png" group-title="International / Other / Unverified",The Hills – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6466007181844c000967f80a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="TheParliamentaryChannel.bs@SD" tvg-logo="https://i.imgur.com/ZQagV0x.png" group-title="International / Other / Unverified",The Parliamentary Channel (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TheParliamentaryChannel.bs@SD" tvg-logo="https://i.imgur.com/ZQagV0x.png" group-title="International / Other / Unverified" dtv-unavailable="1",The Parliamentary Channel (720p) [Not 24/7]
 https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@India" tvg-logo="https://i.imgur.com/yH7n2dF.png" group-title="International / Other / Unverified",The Pet Collective India
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
@@ -32911,7 +32911,7 @@ https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8
 #EXTINF:-1 tvg-id="TVMAR.pe@SD" tvg-logo="https://i.imgur.com/VXvbNjT.png" group-title="International / Other / Unverified",TV MAR (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMu.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png" group-title="International / Other / Unverified",TV Mu (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVMu.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png" group-title="International / Other / Unverified" dtv-unavailable="1",TV Mu (720p) [Not 24/7]
 https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br@SD" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="International / Other / Unverified",TV Pai Eterno (720p)
 http://45.162.64.114/TV_PAI_ETERNO/index.m3u8
@@ -33571,7 +33571,7 @@ https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Film
 #EXTINF:-1 tvg-id="FilmPlus.cz" group-title="International / Czech Republic",Film+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="JojCinema.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-cinema-cz.png" tvg-chno="25" group-title="International / Czech Republic" dtv-unavailable="1",JOJ Cinema
+#EXTINF:-1 tvg-id="JojCinema.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-cinema-cz.png" tvg-chno="25" group-title="International / Czech Republic",JOJ Cinema
 https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Cinema
 #EXTINF:-1 tvg-id="NovaCinema.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" tvg-chno="9" group-title="International / Czech Republic",Nova Cinema
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
@@ -35217,7 +35217,7 @@ https://live-fi.tvkaista.net/ava/live.m3u8
 https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="MTVSub.fi" group-title="International / Finland",MTV Sub · Free-to-air · FI
 https://live-fi.tvkaista.net/sub/live.m3u8
-#EXTINF:-1 tvg-id="MTVUutiset.fi" group-title="International / Finland",MTV Uutiset
+#EXTINF:-1 tvg-id="MTVUutiset.fi" group-title="International / Finland" dtv-unavailable="1",MTV Uutiset
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-id="MTVUutiset.fi" tvg-logo="https://i.imgur.com/IyB6mIb.png" tvg-chno="99" group-title="International / Finland",MTV Uutiset Live
 https://live.streaming.a2d.tv/content/channels/uutiset/cmaf.m3u8
@@ -45385,7 +45385,7 @@ http://92.114.85.87:8003/play/a004/index.m3u8
 https://prx-y5cf8.mediatool.tv/playout/sepl-abr67/index.m3u8
 #EXTINF:-1 tvg-id="SuperPolsat.pl" group-title="International / Poland",Super Polsat
 http://92.114.85.87:8004/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="SzlagierTV.pl" group-title="International / Poland",Szlagier TV
+#EXTINF:-1 tvg-id="SzlagierTV.pl" group-title="International / Poland" dtv-unavailable="1",Szlagier TV
 http://92.114.85.87:8010/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.pl" group-title="International / Poland",TeenNick · Free-to-air · PL
 http://92.114.85.87:8010/play/a009/index.m3u8
@@ -45433,7 +45433,7 @@ https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 http://57.128.210.196:8080/160/index.m3u8
 #EXTINF:-1 tvg-id="TVCSuper.pl" group-title="International / Poland" dtv-unavailable="1",TVC Super
 http://92.114.85.87:8010/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="TVC.pl" group-title="International / Poland" dtv-unavailable="1",TVC · Free-to-air · PL
+#EXTINF:-1 tvg-id="TVC.pl" group-title="International / Poland",TVC · Free-to-air · PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://92.114.85.87:8010/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="TVKStella.pl" group-title="International / Poland",TVK Stella
